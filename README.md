@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--![kisara579's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kisara579&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisara579&layout=compact&theme=vue-dark&show)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisara579&layout=compact&theme=vue-dark&show) -->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisara579&layout=compact)-->
 
