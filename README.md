@@ -37,7 +37,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kisara579&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kisara579&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kisara579&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
@@ -49,9 +49,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kisara579&icon=2&color=6" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kisara579&label=Profile%20views&color=00FF99&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
