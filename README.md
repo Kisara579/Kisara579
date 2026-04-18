@@ -37,19 +37,24 @@
 
 <h3 align="center">🔥 GitHub Stats</h3>
 
-<div align="center">
+<div align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=kisara579&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kisara579&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
-<div align="center">
+
+<!--![kisara579's Stats](https://github-readme-stats.vercel.app/api?username=kisara579&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
+![](https://github-readme-stats.vercel.app/api?username=kisara579&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kisara579&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kisara579&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisara579&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
-</div>
+</div> -->
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kisara579&label=Profile%20views&color=00FF99&style=flat" alt="Profile Views" />
-</div>
+</div> -->
