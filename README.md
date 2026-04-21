@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=200&section=header&text=Kisara%20Beddawala&fontSize=50&fontColor=00FF99&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=An+undergraduate+at+University+of+Kelaniya;Software+Developer;Currently+learning+C%23+%26+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=An+undergraduate+at+University+of+Kelaniya;Software+Developer;" alt="Typing SVG" />
 </div>
 
 <br/>
