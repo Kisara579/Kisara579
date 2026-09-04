@@ -58,3 +58,4 @@
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kisara579&label=Profile%20views&color=00FF99&style=flat" alt="Profile Views" />
 </div> -->
+![tryhackme stats](https://raw.githubusercontent.com/kisara579/kisara579/main/assets/thm_propic.png)
