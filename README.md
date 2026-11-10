@@ -55,12 +55,12 @@
 
 <!-- <br/> -->
 
-<!-- <div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=kisara579&label=Profile%20views&color=00FF99&style=flat" alt="Profile Views" />
-</div> -->
-<!--
+</div> 
+
 ## 🛡️ TryHackMe
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/kisarabeddawala.png)](https://tryhackme.com/p/kisarabeddawala)
 
--->
+
